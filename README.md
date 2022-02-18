@@ -3,10 +3,12 @@
 ## Overview
 Pewlett-Hackard is a company with an aging employee population who has requested an analysis to determine the number of retiring employees, which positions they currently fill, and which of them are eligible to participate in a mentorship program. This will give them direction on employee development so they can hire and/or promote enough people to replace retiring employees.
 
-This exercise began with 6 original tables that had to be filtered into additonal tables to find out the number of people getting ready to retire, and their positions. 
+This exercise began with 6 original tables that had to be dissected & combined into additonal tables to find out the number of people getting ready to retire, and their positions. 
 
+### Here are the original DataBases
 ![Original DataBases](/EmployeeDB.png.png)
 
+### Here is new information that was gathered from combining different columns
 ![New table with information used to analyze](/RetiringTitles.png)
 
 ## Results: 
