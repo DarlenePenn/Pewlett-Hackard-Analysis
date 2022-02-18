@@ -7,6 +7,8 @@ This exercise began with 6 original tables that had to be filtered into additona
 
 ![Original DataBases](/EmployeeDB.png.png)
 
+![New table with information used to analyze](/RetiringTitles.png)
+
 ## Results: 
 
 * The number of employees retiring is 90,398, with the highest loss in the position of Senior Engineers (29,414).
