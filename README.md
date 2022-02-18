@@ -5,7 +5,7 @@ Pewlett-Hackard is a company with an aging employee population who has requested
 
 This exercise began with 6 original tables that had to be filtered into additonal tables to find out the number of people getting ready to retire, and their positions. 
 
-[!Original DataBases](/EmployeeDB.png.png)
+![Original DataBases](/EmployeeDB.png.png)
 
 ## Results: 
 
